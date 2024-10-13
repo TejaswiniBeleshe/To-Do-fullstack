@@ -1,8 +1,7 @@
-# React + Vite
+To-Do-Fullstack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here I have implemented CRUD operations and maintaning separate file to store all the data.
+CRUD operations which i implemented are:                                                                                                                                                                                
+1.User able to read all todos of his.                                                                                                                                                                                   2.Able to add new todo in a list.                                                                                                                                                                                       
+3.User able to modify todo if it is necessary.                                                                                                                                                                          
+4.And can delete todo.
